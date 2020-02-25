@@ -10,4 +10,4 @@ def index():
 
 @blue.route('/test/')
 def test():
-    return render_template('test.html')
+    return render_template('admin.html')
